@@ -48,9 +48,9 @@ To build an AI assistant that can:
 | **Frontend** | React + Vite + Tailwind + Leaflet.js |
 | **Backend** | FastAPI / Flask |
 | **AI & ML** | Scikit-learn, XGBoost, LangChain, Transformers |
-| **Database** | PostgreSQL / MongoDB |
+| **Database** | mySQL / MongoDB |
 | **Visualization** | Plotly / Recharts |
-| **Deployment** | Render / Vercel / Streamlit Cloud |
+| **Deployment** | Render |
 
 
 ---
